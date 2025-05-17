@@ -1,0 +1,44 @@
+{
+  "name": "Tyler Keesee Portfolio",
+  "short_name": "TK Portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0d2b",
+  "theme_color": "#0d0d2b",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "favicon/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "favicon/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "favicon/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "View Projects",
+      "short_name": "Projects",
+      "description": "View my latest projects",
+      "url": "/#projects"
+    },
+    {
+      "name": "Contact Me",
+      "short_name": "Contact",
+      "description": "Get in touch",
+      "url": "/#contact"
+    }
+  ]
+}
