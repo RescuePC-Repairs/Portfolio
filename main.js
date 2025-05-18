@@ -247,19 +247,19 @@ class Portfolio {
   initTypeWriter() {
     const text = document.querySelector(".typing-text");
     const words = [
-      "Self-Taught Developer",
-      "Full Stack Developer",
-      "AI Integration Expert",
-      "Machine Learning Engineer",
-      "Javascript Developer",
-      "AI Solutions Architect",
-      "Deep Learning Specialist",
-      "Python Developer",
-      "AI Expert",
-      "Rust Developer",
-      "Automation Engineer",
-      "Go Lang Developer",
-      "Tech Innovator",
+      "Self-taught. Still learning. Always building.",
+      "I use code to solve real problems.",
+      "Python. Rust. JavaScript. Go.",
+      "AI isn’t magic — it’s a tool. I use it well.",
+      "Clean code. Clear purpose.",
+      "Fast builds. Scalable systems.",
+      "What I make works — simple as that.",
+      "I don't follow trends. I build what matters.",
+      "Side projects. Full focus.",
+      "Built from scratch. Running at scale.",
+      "I don’t talk about it — I ship it.",
+      "Code is how I think.",
+      "This is just version 1.",
     ];
     let wordIndex = 0;
     let charIndex = 0;
